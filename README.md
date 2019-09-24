@@ -1,4 +1,4 @@
-# learning-journal
+# Learning Journal
 ## **Qrowth Mindset**
 ![image](https://www.innerdrive.co.uk/wp-content/uploads/2017/05/How-to-develop-a-growth-mindset-.png)
 
