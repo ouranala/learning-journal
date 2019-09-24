@@ -24,6 +24,12 @@
 
 5.It's linked with gritand pro-social behaviours
 
+_**Dweck goes on to provide a definition for both:**_
+
+*Fixed Mindset: “In a fixed mindset, people believe their basic qualities, like their intelligence or talent, are simply fixed traits. They spend their time documenting their intelligence or talent instead of developing them. They also believe that talent alone creates success—without effort.” (Dweck, 2015)
+
+*Growth Mindset: “In a growth mindset, people believe that their most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point. This view creates a love of learning and a resilience that is essential for great accomplishment.” (Dweck, 2015)
+
 [link to Growth Mindset!](https://www.mindsetworks.com/science/)
 
 
