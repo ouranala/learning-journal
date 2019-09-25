@@ -17,3 +17,10 @@
    ### A script is a series of instructions that a computer can follow to achieve a goal. 
    
    
+# _**EXPRESSIONS**_
+
+## An expression evaluates into (results in) a single value. Broadly speaking there are two types of expressions. 
+    1-EXPRESSIONS THAT JUST ASSIGN AVALUE TO A VARIABLE 
+    2-EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN ASINGLE VALUE 
+
+# _**OPERATORS**_
