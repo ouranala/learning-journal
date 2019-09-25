@@ -2,10 +2,7 @@
 
 ![image](http://nadia-training.com/wp-content/uploads/2019/03/JavaScript-Essentials-Course.jpg)
 
-## This book explains how JavaScript can be used in browsers to make websites more interactive,interesting, and user-friendly. You will also learn about jQuery because it makes writing JavaScript a lot easier. 
-
-
-## To get the most out of this book, you will need to know how to bui ld web pages using HTML and CSS. Beyond that. no prior experience with programming is necessary. Learning to program with JavaScript involves:
+## Learning to program with JavaScript involves:
   
   1-Understanding some basic programming concepts and the terms that JavaScript programmers use to describe them. 
   2-Learning the language itself,and, like all languages, you need to know its vocabulary and how to structure your sentences.
@@ -24,3 +21,10 @@
     2-EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN ASINGLE VALUE 
 
 # _**OPERATORS**_
+
+ ## Expressions rely on things called operators; they allow programmers to create a single value from one or more values. 
+
+ # _**A FUNCTION**_
+ 
+ ## Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements).
+ 
